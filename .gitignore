@@ -1,3 +1,5 @@
 
 # DotEnv configuration
 .venv
+
+__pycache__/
