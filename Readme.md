@@ -1,9 +1,10 @@
 Google Reviews Spam Detector
+
 This project is a Python application that downloads Google reviews for a given restaurant, preprocesses the reviews, and uses a pre-trained machine learning model to detect spam reviews. The application then flags any detected spam reviews and outputs a list of the flagged reviews.
 
 Prerequisites
-To run the application, you will need to have the following installed:
 
+To run the application, you will need to have the following installed:
 Python 3.x
 Scikit-learn
 Pandas
@@ -12,6 +13,7 @@ OpenAI API key
 
 
 Getting Started
+
 Clone this repository to your local machine 
 Install the required Python packages by running pip install -r requirements.txt in your terminal.
 Obtain a Google Maps API key by following the instructions here.
